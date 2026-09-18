@@ -1,5 +1,5 @@
 # User manual
-
+Allow
 [[toc]]
 
 ## Start Shizuku
